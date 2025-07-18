@@ -1,0 +1,7 @@
+INSERT INTO app_member (name, email, created_by, updated_by)
+VALUES 
+('Alice Perera', 'alice.perera@example.com', 'admin', 'admin'),
+('Bob Fernando', 'bob.fernando@example.com', 'admin', 'admin'),
+('Chamari Silva', 'chamari.silva@example.com', 'admin', 'admin'),
+('Dilan Jayasuriya', 'dilan.jayasuriya@example.com', 'admin', 'admin'),
+('Eshan Gunasekara', 'eshan.gunasekara@example.com', 'admin', 'admin');

@@ -1,0 +1,12 @@
+INSERT INTO book (title, author, isbn, published_date, availability_status, created_by, updated_by)
+VALUES 
+('The Great Gatsby', 'F. Scott Fitzgerald', '9780743273565', '1925-04-10', 'AVAILABLE', 'admin', 'admin'),
+('To Kill a Mockingbird', 'Harper Lee', '9780061120084', '1960-07-11', 'AVAILABLE', 'admin', 'admin'),
+('1984', 'George Orwell', '9780451524935', '1949-06-08', 'AVAILABLE', 'admin', 'admin'),
+('Pride and Prejudice', 'Jane Austen', '9781503290563', '1813-01-28', 'AVAILABLE', 'admin', 'admin'),
+('The Catcher in the Rye', 'J.D. Salinger', '9780316769488', '1951-07-16', 'AVAILABLE', 'admin', 'admin'),
+('The Hobbit', 'J.R.R. Tolkien', '9780547928227', '1937-09-21', 'AVAILABLE', 'admin', 'admin'),
+('The Kite Runner', 'Khaled Hosseini', '9781594631931', '2003-05-29', 'AVAILABLE', 'admin', 'admin'),
+('English 101', 'J Albert', '97805903232', '1997-06-26', 'AVAILABLE', 'admin', 'admin'),
+('The Alchemist', 'Paulo Coelho', '9780061122415', '1988-05-01', 'AVAILABLE', 'admin', 'admin'),
+('The Book Thief', 'Markus Zusak', '9780375842207', '2005-03-14', 'AVAILABLE', 'admin', 'admin');
