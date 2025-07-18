@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: chalaka.ellawala.library.manager.LibraryManagerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.766 s -- in chalaka.ellawala.library.manager.LibraryManagerApplicationTests
